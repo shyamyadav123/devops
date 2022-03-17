@@ -1,3 +1,9 @@
 hai sai 
 how are you sai
-where are u
+where are
+if {name = shyam}
+   print 
+       echo "hello shyam"
+else 
+    print
+       echo "who are you"
